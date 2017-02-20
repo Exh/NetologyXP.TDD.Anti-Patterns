@@ -1,0 +1,26 @@
+{
+  "_cocktaiName": "netology-xp-tdd-anti-patterns",
+  "version": "1.0.0",
+  "description": "XP. Test Driven Development. TDD Anti Patterns.",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --ui tdd -R spec tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartStepGroupTrainings/NetologyXP.TDD.Anti-Patterns.git"
+  },
+  "keywords": [
+    "XP",
+    "test-driven-development",
+    "anti-patterns",
+    "smart-tdd",
+    "js"
+  ],
+  "author": "SmartStepGroup",
+  "devDependencies": {
+    "mocha": "~2.4.5",
+    "chai": "~3.5.0",
+    "chai-http": "~2.0.1",
+    "chai-string": "~1.2.0"
+  }
+}

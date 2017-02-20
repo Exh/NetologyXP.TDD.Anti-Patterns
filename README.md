@@ -1,1 +1,0 @@
-# NetologyXP.TDD.Anti-Patterns
